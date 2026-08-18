@@ -25,4 +25,4 @@ A Python project that uses the Open-Meteo API to fetch weather information for a
 ```bash
 pip install requests
 
-this is for whole world
+
